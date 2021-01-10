@@ -2,8 +2,6 @@
 
 REST API example with NodeJS, MongoDB and Mongoose.
 
-Credit to [Web Dev Simplified](https://youtu.be/DvlyzDZDEq4)
-
 ## Usage
 
 ### Install dependencies
